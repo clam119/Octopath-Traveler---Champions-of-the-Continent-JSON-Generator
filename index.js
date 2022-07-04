@@ -28,7 +28,8 @@ const handleFormSubmit = (event) => {
     const dataContainer = document.getElementsByClassName('results__display')[0]; //prints the form being submitted at Array Index 0. (First Item)
 
     dataContainer.textContent = JSON.stringify(data, null, '  ');
-
+    
+    
 }
 
 const form = document.getElementsByClassName('traveler-form')[0];
