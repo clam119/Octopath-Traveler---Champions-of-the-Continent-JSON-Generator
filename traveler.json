@@ -1,0 +1,218 @@
+{
+    "warriors": [
+
+        {
+            "characterName": "Fior",
+            "rarity": "5",
+            "affiliation": "Glory",
+            "jobClass": "Warrior"
+        },
+
+        {
+            "characterName": "Lionel",
+            "rarity": "5",
+            "affiliation": "Glory",
+            "jobClass": "Warrior"
+        },
+
+        {
+            "characterName": "Tikilen",
+            "rarity": "5",
+            "affiliation": "Wealth",
+            "jobClass": "Warrior"
+        },
+
+        {
+            "characterName": "Eliza",
+            "rarity": "5",
+            "affiliation": "Power",
+            "jobClass": "Warrior"
+        },
+
+        {
+            "characterName": "Edea",
+            "rarity": "5",
+            "affiliation": "Power",
+            "jobClass": "Warrior"
+        },
+
+        {
+            "characterName": "Kouren",
+            "rarity": "5",
+            "affiliation": "Wealth",
+            "jobClass": "Warrior"
+        },
+
+        {
+            "characterName": "Wrath",
+            "rarity": "5",
+            "affiliation": "Power",
+            "jobClass": "Warrior"
+        },
+
+        {
+            "characterName": "Olberic",
+            "rarity": "5",
+            "affiliation": "Power",
+            "jobClass": "Warrior"
+        },
+
+        {
+            "characterName": "Joshua",
+            "rarity": "5",
+            "affiliation": "Glory",
+            "jobClass": "Warrior"
+        },
+
+        {
+            "characterName": "Richard",
+            "rarity": "5",
+            "affiliation": "Glory",
+            "jobClass": "Warrior"
+        },
+
+        {
+            "characterName": "2B",
+            "rarity": "5",
+            "affiliation": "Glory",
+            "jobClass": "Warrior"
+        },
+
+        {
+            "characterName": "Tytos",
+            "rarity": "5",
+            "affiliation": "Power",
+            "jobClass": "Warrior"
+        },
+
+        {
+            "characterName": "Sigrid",
+            "rarity": "4",
+            "affiliation": "Power",
+            "jobClass": "Warrior"
+        },
+
+        {
+            "characterName": "Trish",
+            "rarity": "4",
+            "affiliation": "Wealth",
+            "jobClass": "Warrior"
+        },
+
+        {
+            "characterName": "Tahir",
+            "rarity": "4",
+            "affiliation": "Glory",
+            "jobClass": "Warrior"
+        },
+
+        {
+            "characterName": "Miles",
+            "rarity": "4",
+            "affiliation": "Power",
+            "jobClass": "Warrior"
+        },
+
+        {
+            "characterName": "Jorn",
+            "rarity": "4",
+            "affiliation": "Wealth",
+            "jobClass": "Warrior"
+        },
+
+        {
+            "characterName": "Nanna",
+            "rarity": "3",
+            "affiliation": "Power",
+            "jobClass": "Warrior"
+        },
+
+        {
+            "characterName": "Menny",
+            "rarity": "3",
+            "affiliation": "Wealth",
+            "jobClass": "Warrior"
+        },
+
+        {
+            "characterName": "Yugo",
+            "rarity": "3",
+            "affiliation": "Glory",
+            "jobClass": "Warrior"
+        }
+
+    ],
+
+    "merchants": [
+
+        {
+
+
+
+        }
+
+    ],
+
+    "thieves": [
+
+        {
+
+
+
+        }
+
+    ],
+
+    "apothecaries": [
+
+        {
+
+
+
+        }
+
+    ],
+
+    "hunters": [
+
+        {
+
+
+
+        }
+
+    ],
+
+    "clerics": [
+
+        {
+
+
+
+        }
+
+    ],
+
+    "scholars": [
+
+        {
+
+
+
+        }
+
+    ],
+
+    "dancers": [
+
+        {
+
+
+
+        }
+
+    ]
+
+
+
+}
