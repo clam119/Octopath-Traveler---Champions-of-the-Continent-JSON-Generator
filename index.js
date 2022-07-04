@@ -1,5 +1,6 @@
 // @param {event};
 // @return {void};
+//Code Reference: https://www.learnwithjason.dev/blog/get-form-values-as-json
 
 const formToJson = (elements) =>
   [].reduce.call(
