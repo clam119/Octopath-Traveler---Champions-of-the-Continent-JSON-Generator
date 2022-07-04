@@ -1,0 +1,11 @@
+{
+  "name": "octopath-traveler---champions-of-the-continent-json-generator",
+  "version": "1.0.0",
+  "description": "The JSON Generator for my COTC Project that hopes to make tracking your travelers easy in the Octopath Traveler iOS game.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Christopher Lam",
+  "license": "ISC"
+}
